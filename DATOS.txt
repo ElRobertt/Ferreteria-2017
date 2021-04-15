@@ -1,0 +1,2 @@
+#  AbrirFormEnPanel(Of Form3)()
+        Button3.BackColor = Color.FromArgb(12, 61, 92)
